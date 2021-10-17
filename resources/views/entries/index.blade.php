@@ -10,4 +10,5 @@
             <li><a href="{{ action("App\Http\Controllers\EntriesController@view", $entry->id) }}">{{ $entry->title }}</a></li>
         @endforeach
     </ul>
-@endsection    
+@endsection
+編集しました！ 大友  
